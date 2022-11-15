@@ -1,0 +1,75 @@
+[33mcommit 95f3d483919c1497fac55b986819ef32f25f0b39[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: smonaila <smonaila@gmail.com>
+Date:   Thu Nov 3 11:37:29 2022 +0200
+
+    Modified the index page to push the changes to the remote
+
+[33mcommit df95509868a1e49f71125a97f1d623d8a4fe7526[m
+Author: smonaila <46439054+smonaila@users.noreply.github.com>
+Date:   Thu Nov 3 11:27:44 2022 +0200
+
+    Update README.md
+
+[33mcommit 5d4f259033fa0a99e2fccb5422052974aa264c68[m
+Author: smonaila <46439054+smonaila@users.noreply.github.com>
+Date:   Thu Nov 3 11:14:49 2022 +0200
+
+    Update README.md
+    
+    Made first changes from GitHub.
+
+[33mcommit 890217fc29cbc99ff8834ba22122b031cf0a4a41[m
+Merge: 3d3fd04 6e6aea0
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 19:38:03 2022 +0200
+
+    Merge branch 'hello-world-images'
+
+[33mcommit 6e6aea03b6e2f12155d8291860c677dce3e4f8ea[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 19:35:15 2022 +0200
+
+    Added another new image
+
+[33mcommit 3d3fd0499b0c401e57be608bb9cdc77078ccc9e8[m
+Merge: 2ca67b2 ebf17e9
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 00:58:21 2022 +0200
+
+    Merge branch 'hello-world-images'
+
+[33mcommit ebf17e97cb7bc706ea32e783601252c24cffb82c[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 00:57:36 2022 +0200
+
+    Added new image
+
+[33mcommit 773238c5444b781148b1541ec039a4f8d265157e[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 00:51:51 2022 +0200
+
+    removing some unwanted changes
+
+[33mcommit 2ca67b2789a65a0187b384ff0f2b44c527786de1[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 00:34:42 2022 +0200
+
+    updated index.html with emergency fix
+
+[33mcommit e1326c1ddb6828a541552d7572d49a7c468fd079[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Wed Nov 2 00:24:54 2022 +0200
+
+    Added image to Hello World
+
+[33mcommit aa71e906735cc072545f1f75538102690225dd5b[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Tue Nov 1 10:33:24 2022 +0200
+
+    updated index.html with a new line
+
+[33mcommit b410a3fdb4e73a845f2c9b102c84d805781e33b2[m
+Author: w3school-test <test@vidosa.co.za>
+Date:   Tue Nov 1 10:24:46 2022 +0200
+
+    First release of Hello World!
